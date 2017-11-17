@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于博客
 permalink: /about/
 ---
 这个博客采用jekyll和github page生成的。
