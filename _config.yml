@@ -40,3 +40,9 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - beacon
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
