@@ -48,4 +48,5 @@ defaults:
       image: true
 
 collections:
-  - firstCollection
+    first:
+      output: true
